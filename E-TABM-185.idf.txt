@@ -1,0 +1,28 @@
+Comment[ArrayExpressAccession]	E-TABM-185	
+Investigation Title	hgu133a integrated dataset					
+Experimental Design	co-expression_design					
+Experimental Factor Name	ORGANISMPART	CELLTYPE	DISEASESTATE	CELLLINE	DISEASESTAGE	DEVELOPMENTALSTAGE
+Experimental Factor Type	organism_part	cell_type	disease_state	cell_line	disease_stage	developmental_stage
+Person Last Name	Lukk					
+Person First Name	Margus					
+Person Email	mlukk@ebi.ac.uk					
+Person Address	EBI, Wellcome Trust Genome Campus, Hinxton, Cabmbridge, CB10 1SD, UK					
+Person Affiliation	EBI					
+Person Roles	submitter					
+						
+comment[Quality Control Types]	biological_replicate					
+Public Release Date	2007-11-20					
+						
+Comment[ArrayExpressSubmissionDate]		2007-11-20					
+						
+Pubmed ID						
+Publication Author List	Margus Lukk					
+Publication Title						
+Experiment Description	hgu133a integrated dataset integrated from ArrayExpress and GEO					
+						
+Protocol Name	P-TABM-1006
+Protocol Type	bioassay_data_transformation					
+Protocol Description	We used gcrma from bioconductor to renormalise all the CEL files					
+Protocol Parameters						
+Protocol Software						
+SDRF File	E-TABM-185.sdrf.txt						
